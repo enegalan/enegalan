@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Eneko Galan Kalkulagailu Handia</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="kalk">
+            <div id="display">0</div>
+
+            <button class="col-2" onclick="del()">C</button>
+            <br>
+            <button class="numero" onclick="add('/')">/</button>
+            <button class="numero" onclick="add('7')">7</button>
+            <button class="numero" onclick="add('8')">8</button>
+            <button class="numero" onclick="add('9')">9</button>
+            <button class="numero" onclick="add('*')">X</button>
+            <button class="numero" onclick="add('4')">4</button>
+            <button class="numero" onclick="add('5')">5</button>
+            <button class="numero" onclick="add('6')">6</button>
+            <button class="numero" onclick="add('-')">-</button>
+            <button class="numero" onclick="add('1')">1</button>
+            <button class="numero" onclick="add('2')">2</button>
+            <button class="numero" onclick="add('3')">3</button>
+            <button class="numero" onclick="add('+')">+</button>
+            <button class="col-2 numero" onclick="add('0')">0</button>
+            <button class="numero" onclick="add('.')">.</button>
+            <button class="numero" onclick="kalkulatu()">=</button>
+        </div>
+    </div>
+
+    <script>
+        function emaitzaLortu(){
+            return document.getElementById('display').innerHTML;
+        }
+        function emaitzaEzarri(zenbakia){
+            document.getElementById('display').innerHTML = zenbakia;
+        }
+        function add(key){
+            var emaitza = emaitzaLortu();
+            if(emaitza != 0 || isNaN(key)){
+                emaitzaEzarri(emaitza + key);
+            }
+            else{
+                emaitzaEzarri(key);
+            }
+        }
+        function kalkulatu(){
+            var emaitza = eval(emaitzaLortu());
+            emaitzaEzarri(emaitza);
+        }
+        function del(){
+            emaitzaEzarri(0);
+        }
+    </script>
+</body>
+
+</html>
