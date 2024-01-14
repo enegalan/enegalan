@@ -6,11 +6,11 @@
 - 📫 How to reach me **enekogalanelorza@gmail.com**
 
 
-<h3 align="center">A passionate frontend developer</h3>
+# 📊 GitHub Stats:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enegalan&title=Commits,Issues,Repositories" alt="enegalan" /></a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enegalan&show_icons=true&locale=en&layout=compact" alt="enegalan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enegalan&show_icons=true&locale=en" alt="enegalan" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enegalan&title=Commits,Issues,Repositories&theme=darkhub" alt="enegalan" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enegalan&show_icons=true&locale=en&layout=compact&theme=dark" alt="enegalan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enegalan&show_icons=true&locale=en&theme=dark" alt="enegalan" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
