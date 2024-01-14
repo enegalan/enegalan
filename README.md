@@ -8,7 +8,7 @@
 
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enegalan" alt="enegalan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enegalan&title=Commits,Issues,Repositories" alt="enegalan" /></a> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enegalan&show_icons=true&locale=en&layout=compact" alt="enegalan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enegalan&show_icons=true&locale=en" alt="enegalan" /></p>
 
