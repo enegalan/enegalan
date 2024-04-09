@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eneko Galan</h1>
 <h3 align="center">🚀 About me:</h3>
 
-- 🌱 I’m currently learning **Laravel, Docker and Python.**
+- 👨🏻‍💻 Web Applications Developer
+- 💼 <a href='https://oversys.eu'>Oversys Group</a> IT worker since 2023
 
 - 📫 How to reach me **enekogalanelorza@gmail.com**
 
