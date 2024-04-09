@@ -2,7 +2,7 @@
 <h3 align="center">🚀 About me:</h3>
 
 - 👨🏻‍💻 Web Applications Developer
-- 💼 <a href='https://oversys.eu'>Oversys Group</a> IT worker since 2023
+- 💼 <a target='_blank' href='https://oversys.eu'>Oversys Group</a> IT worker since 2023
 
 - 📫 How to reach me **enekogalanelorza@gmail.com**
 
