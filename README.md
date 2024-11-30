@@ -2,7 +2,7 @@
 <h3 align="center">🚀 About me:</h3>
 
 - 👨🏻‍💻 Web Applications Developer
-- 💼 <a target='_blank' href='https://oversys.eu'>Oversys Group</a> IT worker since 2023
+- 💼 <a target='_blank' href='https://oversys.eu'>Oversys Group</a> IT Software Engineer since 2023
 
 - 📫 How to reach me **enekogalanelorza@gmail.com**
 
@@ -21,9 +21,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=enegalan&icon=5&color=12)](https://visitcount.itsvg.in)
