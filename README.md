@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 Web Applications Developer
 - 💼 <a target='_blank' href='https://oversys.eu'>Oversys Group</a> IT Software Engineer since 2023
-
+- 🌐 <a target='_blank' href='https://enegalan.dev'>My Portfolio</a>  
 - 📫 How to reach me **enekogalanelorza@gmail.com**
 
 
