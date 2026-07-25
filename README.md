@@ -23,4 +23,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=enegalan&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=enegalan&icon=0&color=blue)](https://visitcount.itsvg.in)
